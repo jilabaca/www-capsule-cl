@@ -4,3 +4,4 @@ draft = false
 title = "Me"
 +++
 Sobre mi :D
+![](/img/B&W-B%20Logo%20NB.png)
