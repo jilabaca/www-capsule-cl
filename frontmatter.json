@@ -42,55 +42,6 @@
           "title": "Categories",
           "name": "categories",
           "type": "categories"
-        },
-        {
-          "title": "author",
-          "name": "author",
-          "type": "string"
-        },
-        {
-          "title": "authorTwitter",
-          "name": "authorTwitter",
-          "type": "string"
-        },
-        {
-          "title": "cover",
-          "name": "cover",
-          "type": "string"
-        },
-        {
-          "title": "coverCaption",
-          "name": "coverCaption",
-          "type": "string"
-        },
-        {
-          "title": "keywords",
-          "name": "keywords",
-          "type": "choice",
-          "choices": [
-            "",
-            ""
-          ]
-        },
-        {
-          "title": "showFullContent",
-          "name": "showFullContent",
-          "type": "boolean"
-        },
-        {
-          "title": "readingTime",
-          "name": "readingTime",
-          "type": "boolean"
-        },
-        {
-          "title": "hideComments",
-          "name": "hideComments",
-          "type": "boolean"
-        },
-        {
-          "title": "color",
-          "name": "color",
-          "type": "string"
         }
       ]
     }
@@ -100,28 +51,12 @@
   "frontMatter.preview.host": "http://localhost:1313",
   "frontMatter.content.pageFolders": [
     {
-      "title": "archetypes",
-      "path": "[[workspace]]/archetypes"
-    },
-    {
-      "title": "re-terminal",
-      "path": "[[workspace]]/themes/re-terminal"
-    },
-    {
       "title": "posts",
       "path": "[[workspace]]/content/posts"
     },
     {
-      "title": "archetypes",
-      "path": "[[workspace]]/themes/re-terminal/archetypes"
-    },
-    {
-      "title": "content",
-      "path": "[[workspace]]/themes/re-terminal/demoSite/content"
-    },
-    {
-      "title": "posts",
-      "path": "[[workspace]]/themes/re-terminal/demoSite/content/posts"
+      "title": "pages",
+      "path": "[[workspace]]/content/pages"
     }
   ],
   "frontMatter.git.enabled": true
