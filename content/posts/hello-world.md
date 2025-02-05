@@ -2,15 +2,16 @@
 title = "Hello World"
 date = "2025-02-04T21:21:27-03:00"
 author = ""
-authorTwitter = "" #do not include @
+authorTwitter = ""
 cover = ""
 coverCaption = ""
-tags = ["", ""]
-keywords = ["", ""]
-description = ""
+tags = [ "", "homelab" ]
+keywords = [ "", "" ]
+description = "Mi primer Post"
 showFullContent = false
 readingTime = false
 hideComments = false
-color = "" #color from the theme settings
+color = ""
+categories = [ "blog" ]
 +++
 Primer Post :D
